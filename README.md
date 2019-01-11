@@ -20,7 +20,7 @@
   npm install 
   
   ```
-  7. Add the .csv file into the folder 'input' that you want to format. Make sure the file is renamed to 'new.csv'. Inside the csv file, make sure it follows the format shown in the example file (e.g: example.csv)
+  7. Add the .csv file into the folder 'input' that you want to format. Make sure the file is renamed to 'my.csv'. Inside the csv file, make sure it follows the format shown in the example file (e.g: example.csv)
   8. Run the script by typing:
   
   ```
